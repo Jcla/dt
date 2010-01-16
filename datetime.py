@@ -1,3 +1,4 @@
+# (c) Joseph Adams 2010
 import datetime,sys
 t=datetime.datetime.now()
 th=t.hour
