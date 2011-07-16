@@ -1,4 +1,4 @@
-# (c)2010 Joseph Adams 
+# (c) Joseph Adams 2011
 import datetime,sys
 t=datetime.datetime.now()
 th=t.hour
